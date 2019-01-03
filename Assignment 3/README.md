@@ -1,7 +1,8 @@
 # Assignment 3
 
-Process:
+## Process
 
-Goal:
+## Goal
 
-Properties:
+## Properties
+Explanatory - Static - D3 
