@@ -1,7 +1,10 @@
-# Assignment 1
+# Assignment 1: Meteorite Landings
 
-Process: 
+## Process 
 
-Goal: 
 
-Properties: 
+## Goal
+
+
+## Properties
+Exploratory - Interactive - D3
