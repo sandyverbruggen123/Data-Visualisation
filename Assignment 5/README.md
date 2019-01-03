@@ -1,7 +1,8 @@
-# Assignment 5
+# Assignment 5: Weather data sonification
 
-Process:
+## Process
 
-Goal:
+## Goal
 
-Properties:
+## Properties
+Explanatory - Auditive - Node-based
