@@ -1,7 +1,8 @@
 # Assignment 4
 
-Process:
+## Process
 
-Goal:
+## Goal
 
-Properties:
+## Properties
+Explanatory - Interactive - 3D
