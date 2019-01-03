@@ -1,7 +1,7 @@
 # Assignment 2
 
-Process: 
+## Process: 
 
 Goal:
 
-Properties:
+Properties: 
