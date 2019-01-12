@@ -10,3 +10,5 @@ The goal is that you can see that there always will be more boys who are born th
 
 ## Properties 
 Explanatory - Physical - Linear
+
+## Final result
