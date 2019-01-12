@@ -12,4 +12,4 @@ The goal is that you can see that there always will be more boys who are born th
 Explanatory - Physical - Linear
 
 ## Final result
-
+![alt text](http://github.com/sandyverbruggen123/Data-Visualisation/Assignment2/ResultBirths.jpg)
