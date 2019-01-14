@@ -1,0 +1,161 @@
+<!--
+sources
+https://stackoverflow.com/questions/28365948/javascript-latitude-longitude-to-xyz-position-on-earth-threejs
+https://codepen.io/ya7gisa0/pen/pisrm
+https://threejs.org/docs/#manual/en/introduction/Creating-a-scene
+https://threejs.org/docs/#api/en/loaders/TextureLoader
+https://github.com/jdomingu/ThreeGeoJSON
+-->
+
+
+
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Travel globe Belgium</title>
+  <style>
+    body {
+      margin: 0;
+      background-color: black;
+      font-family: "Helvetica";
+      padding-top: 2em;
+    }
+    
+    h1 {
+      float: left;
+      color: white;
+      margin-left: 1em;
+      padding-left: 1em;
+      padding-right: 0.5em;
+      padding-top: 0.2em;
+      padding-bottom: 0.2em;
+      background: red;
+      width: 200px;
+      border-radius: 10px;
+    }
+    
+    #divTransport,
+    #divStays {
+      padding-top: 50px;
+      height: 200px;
+    }
+    
+    ul {
+      float: right;
+      padding-top: 2em;
+      list-style-type: circle;
+      padding-right: 7em;
+    }
+    
+    li {
+      padding-top: 0.5em;
+    }
+    
+    #fr {
+      color: #33B3FF;
+    }
+    
+    #us {
+      color: #3338FF;
+    }
+    
+    #sp {
+      color: #782E8C;
+    }
+    
+    #ch {
+      color: #FF33EE;
+    }
+    
+    #it {
+      color: #638599;
+    }
+    
+    #uk {
+      color: #DAF7A6;
+    }
+    
+    #ge {
+      color: #B433FF;
+    }
+    
+    #me {
+      color: #FF5D33;
+    }
+    
+    #th {
+      color: #FFC300;
+    }
+    
+    #tu {
+      color: #bfbc2d;
+    }
+    
+    #au {
+      color: #C70039;
+    }
+    
+    #ma {
+      color: #1A642B;
+    }
+    
+    #hk {
+      color: #33FFC5;
+    }
+    
+    #gr {
+      color: #ffdd87;
+    }
+    
+    #ru {
+      color: #98FF33;
+    }
+    
+    #margin {
+      height: 200px;
+    }
+  </style>
+</head>
+
+<body>
+  <script src="js/threeGeoJSON.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/100/three.js"></script>
+  <script src="js/TrackballControls.js"></script>
+  <script src="js/jquery.js"></script>
+
+  <script src="https://www.amcharts.com/lib/4/core.js"></script>
+  <script src="https://www.amcharts.com/lib/4/charts.js"></script>
+  <script src="https://www.amcharts.com/lib/4/themes/dark.js"></script>
+
+  <script src="js/globe.js"></script>
+
+  <h1>Travel globe Belgium</h1>
+
+  <ul>
+    <li id="fr">France</li>
+    <li id="us">United States</li>
+    <li id="sp">Spain</li>
+    <li id="ch">China</li>
+    <li id="it">Italy</li>
+    <li id="uk">United Kingdom</li>
+    <li id="ge">Germany</li>
+    <li id="me">Mexico</li>
+    <li id="th">Thailand</li>
+    <li id="tu">Turkey</li>
+    <li id="au">Austria</li>
+    <li id="ma">Malaysia</li>
+    <li id="hk">Hong-Kong</li>
+    <li id="gr">Greece</li>
+    <li id="ru">Russia</li>
+  </ul>
+
+  <div id="divStays"></div>
+  <div id="divTransport"></div>
+  <div id="margin"></div>
+
+  <script src="js/piecharts.js"></script>
+
+</body>
+
+</html>
