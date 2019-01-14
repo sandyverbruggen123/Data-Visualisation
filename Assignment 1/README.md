@@ -10,5 +10,6 @@ Show all fall meteorites on the right place and if you choose one meteorite you 
 Exploratory - Interactive - D3
 
 ## Final result
+![alt text](https://github.com/sandyverbruggen123/Data-Visualisation/blob/master/Assignment%201/Finalresult.png)
 
 
