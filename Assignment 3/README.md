@@ -7,7 +7,7 @@ I wanted to show something like a race track. I searched for a data visualisatio
 After this I edited the visualisation in Illustrator. I rotated it because otherwise the text in the nodes wasn't readable. 
 
 ## Goal
-I wanted to show the different combinations of the fastest karts from Mario in Mario Kart 8 Deluxe. In other Mario Kart games you have to choose just your kart but in Mario Kart 8 Deluxe you have to choose a kart, tires and a glider. So if you want the fastest car in the game, you have to follow one of the "race tracks" on the poster in one color.
+I wanted to show the different combinations of the fastest karts from Mario in Mario Kart 8 Deluxe. In other Mario Kart games you have to choose just your kart but in Mario Kart 8 Deluxe you have to choose a kart, tires and a glider. So if you want the fastest car in the game, you have to follow one of the "race tracks" on the poster in one color. The thickness of the tracks shows the weight of the kart. So now if you see this visualisation, you can choose the options that fits best for you. 
 
 ## Properties
 Explanatory - Static - D3 
