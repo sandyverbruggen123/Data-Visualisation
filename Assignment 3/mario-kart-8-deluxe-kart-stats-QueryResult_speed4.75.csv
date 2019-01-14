@@ -1,0 +1,145 @@
+characters,kart,tires,glider,speed,acceleration,weight,handling,traction,turbo,total
+Mario,B Dasher,Gold Tires,Plane Glider,4.75,1.75,4.5,2.75,2.25,2.0,18.0
+Mario,B Dasher,Gold Tires,Wario Wing,4.75,1.75,4.5,2.75,2.25,2.0,18.0
+Mario,B Dasher,Gold Tires,Hylian Kite,4.75,1.75,4.25,2.75,2.5,2.0,18.0
+Mario,B Dasher,Gold Tires,Gold Glider,4.75,1.75,4.5,2.75,2.25,2.0,18.0
+Mario,B Dasher,Gold Tires,Super Glider,4.75,1.75,4.25,2.75,2.5,2.0,18.0
+Mario,B Dasher,Gold Tires,Waddle Wing,4.75,1.75,4.25,2.75,2.5,2.0,18.0
+Mario,B Dasher,Cyber Slick,Plane Glider,4.75,2.0,4.25,2.75,1.75,2.0,17.5
+Mario,B Dasher,Cyber Slick,Wario Wing,4.75,2.0,4.25,2.75,1.75,2.0,17.5
+Mario,B Dasher,Cyber Slick,Hylian Kite,4.75,2.0,4.0,2.75,2.0,2.0,17.5
+Mario,B Dasher,Cyber Slick,Gold Glider,4.75,2.0,4.25,2.75,1.75,2.0,17.5
+Mario,B Dasher,Cyber Slick,Super Glider,4.75,2.0,4.0,2.75,2.0,2.0,17.5
+Mario,B Dasher,Cyber Slick,Waddle Wing,4.75,2.0,4.0,2.75,2.0,2.0,17.5
+Mario,B Dasher,Slick,Plane Glider,4.75,2.0,4.25,2.75,1.75,2.0,17.5
+Mario,B Dasher,Slick,Wario Wing,4.75,2.0,4.25,2.75,1.75,2.0,17.5
+Mario,B Dasher,Slick,Hylian Kite,4.75,2.0,4.0,2.75,2.0,2.0,17.5
+Mario,B Dasher,Slick,Gold Glider,4.75,2.0,4.25,2.75,1.75,2.0,17.5
+Mario,B Dasher,Slick,Super Glider,4.75,2.0,4.0,2.75,2.0,2.0,17.5
+Mario,B Dasher,Slick,Waddle Wing,4.75,2.0,4.0,2.75,2.0,2.0,17.5
+Mario,B Dasher,Metal,Plane Glider,4.75,1.75,4.5,2.75,2.25,2.0,18.0
+Mario,B Dasher,Metal,Wario Wing,4.75,1.75,4.5,2.75,2.25,2.0,18.0
+Mario,B Dasher,Metal,Hylian Kite,4.75,1.75,4.25,2.75,2.5,2.0,18.0
+Mario,B Dasher,Metal,Gold Glider,4.75,1.75,4.5,2.75,2.25,2.0,18.0
+Mario,B Dasher,Metal,Super Glider,4.75,1.75,4.25,2.75,2.5,2.0,18.0
+Mario,B Dasher,Metal,Waddle Wing,4.75,1.75,4.25,2.75,2.5,2.0,18.0
+Mario,Standard ATV,Gold Tires,Plane Glider,4.75,1.5,4.75,2.5,3.0,1.5,18.0
+Mario,Standard ATV,Gold Tires,Wario Wing,4.75,1.5,4.75,2.5,3.0,1.5,18.0
+Mario,Standard ATV,Gold Tires,Hylian Kite,4.75,1.5,4.5,2.5,3.25,1.5,18.0
+Mario,Standard ATV,Gold Tires,Gold Glider,4.75,1.5,4.75,2.5,3.0,1.5,18.0
+Mario,Standard ATV,Gold Tires,Super Glider,4.75,1.5,4.5,2.5,3.25,1.5,18.0
+Mario,Standard ATV,Gold Tires,Waddle Wing,4.75,1.5,4.5,2.5,3.25,1.5,18.0
+Mario,Standard ATV,Cyber Slick,Plane Glider,4.75,1.75,4.5,2.5,2.5,1.5,17.5
+Mario,Standard ATV,Cyber Slick,Wario Wing,4.75,1.75,4.5,2.5,2.5,1.5,17.5
+Mario,Standard ATV,Cyber Slick,Hylian Kite,4.75,1.75,4.25,2.5,2.75,1.5,17.5
+Mario,Standard ATV,Cyber Slick,Gold Glider,4.75,1.75,4.5,2.5,2.5,1.5,17.5
+Mario,Standard ATV,Cyber Slick,Super Glider,4.75,1.75,4.25,2.5,2.75,1.5,17.5
+Mario,Standard ATV,Cyber Slick,Waddle Wing,4.75,1.75,4.25,2.5,2.75,1.5,17.5
+Mario,Standard ATV,Slick,Plane Glider,4.75,1.75,4.5,2.5,2.5,1.5,17.5
+Mario,Standard ATV,Slick,Wario Wing,4.75,1.75,4.5,2.5,2.5,1.5,17.5
+Mario,Standard ATV,Slick,Hylian Kite,4.75,1.75,4.25,2.5,2.75,1.5,17.5
+Mario,Standard ATV,Slick,Gold Glider,4.75,1.75,4.5,2.5,2.5,1.5,17.5
+Mario,Standard ATV,Slick,Super Glider,4.75,1.75,4.25,2.5,2.75,1.5,17.5
+Mario,Standard ATV,Slick,Waddle Wing,4.75,1.75,4.25,2.5,2.75,1.5,17.5
+Mario,Standard ATV,Metal,Plane Glider,4.75,1.5,4.75,2.5,3.0,1.5,18.0
+Mario,Standard ATV,Metal,Wario Wing,4.75,1.5,4.75,2.5,3.0,1.5,18.0
+Mario,Standard ATV,Metal,Hylian Kite,4.75,1.5,4.5,2.5,3.25,1.5,18.0
+Mario,Standard ATV,Metal,Gold Glider,4.75,1.5,4.75,2.5,3.0,1.5,18.0
+Mario,Standard ATV,Metal,Super Glider,4.75,1.5,4.5,2.5,3.25,1.5,18.0
+Mario,Standard ATV,Metal,Waddle Wing,4.75,1.5,4.5,2.5,3.25,1.5,18.0
+Mario,Badwagon,Gold Tires,Plane Glider,4.75,1.5,4.75,2.5,3.0,1.5,18.0
+Mario,Badwagon,Gold Tires,Wario Wing,4.75,1.5,4.75,2.5,3.0,1.5,18.0
+Mario,Badwagon,Gold Tires,Hylian Kite,4.75,1.5,4.5,2.5,3.25,1.5,18.0
+Mario,Badwagon,Gold Tires,Gold Glider,4.75,1.5,4.75,2.5,3.0,1.5,18.0
+Mario,Badwagon,Gold Tires,Super Glider,4.75,1.5,4.5,2.5,3.25,1.5,18.0
+Mario,Badwagon,Gold Tires,Waddle Wing,4.75,1.5,4.5,2.5,3.25,1.5,18.0
+Mario,Badwagon,Cyber Slick,Plane Glider,4.75,1.75,4.5,2.5,2.5,1.5,17.5
+Mario,Badwagon,Cyber Slick,Wario Wing,4.75,1.75,4.5,2.5,2.5,1.5,17.5
+Mario,Badwagon,Cyber Slick,Hylian Kite,4.75,1.75,4.25,2.5,2.75,1.5,17.5
+Mario,Badwagon,Cyber Slick,Gold Glider,4.75,1.75,4.5,2.5,2.5,1.5,17.5
+Mario,Badwagon,Cyber Slick,Super Glider,4.75,1.75,4.25,2.5,2.75,1.5,17.5
+Mario,Badwagon,Cyber Slick,Waddle Wing,4.75,1.75,4.25,2.5,2.75,1.5,17.5
+Mario,Badwagon,Slick,Plane Glider,4.75,1.75,4.5,2.5,2.5,1.5,17.5
+Mario,Badwagon,Slick,Wario Wing,4.75,1.75,4.5,2.5,2.5,1.5,17.5
+Mario,Badwagon,Slick,Hylian Kite,4.75,1.75,4.25,2.5,2.75,1.5,17.5
+Mario,Badwagon,Slick,Gold Glider,4.75,1.75,4.5,2.5,2.5,1.5,17.5
+Mario,Badwagon,Slick,Super Glider,4.75,1.75,4.25,2.5,2.75,1.5,17.5
+Mario,Badwagon,Slick,Waddle Wing,4.75,1.75,4.25,2.5,2.75,1.5,17.5
+Mario,Badwagon,Metal,Plane Glider,4.75,1.5,4.75,2.5,3.0,1.5,18.0
+Mario,Badwagon,Metal,Wario Wing,4.75,1.5,4.75,2.5,3.0,1.5,18.0
+Mario,Badwagon,Metal,Hylian Kite,4.75,1.5,4.5,2.5,3.25,1.5,18.0
+Mario,Badwagon,Metal,Gold Glider,4.75,1.5,4.75,2.5,3.0,1.5,18.0
+Mario,Badwagon,Metal,Super Glider,4.75,1.5,4.5,2.5,3.25,1.5,18.0
+Mario,Badwagon,Metal,Waddle Wing,4.75,1.5,4.5,2.5,3.25,1.5,18.0
+Mario,Mercedes GLA,Gold Tires,Plane Glider,4.75,1.5,4.75,2.5,3.0,1.5,18.0
+Mario,Mercedes GLA,Gold Tires,Wario Wing,4.75,1.5,4.75,2.5,3.0,1.5,18.0
+Mario,Mercedes GLA,Gold Tires,Hylian Kite,4.75,1.5,4.5,2.5,3.25,1.5,18.0
+Mario,Mercedes GLA,Gold Tires,Gold Glider,4.75,1.5,4.75,2.5,3.0,1.5,18.0
+Mario,Mercedes GLA,Gold Tires,Super Glider,4.75,1.5,4.5,2.5,3.25,1.5,18.0
+Mario,Mercedes GLA,Gold Tires,Waddle Wing,4.75,1.5,4.5,2.5,3.25,1.5,18.0
+Mario,Mercedes GLA,Cyber Slick,Plane Glider,4.75,1.75,4.5,2.5,2.5,1.5,17.5
+Mario,Mercedes GLA,Cyber Slick,Wario Wing,4.75,1.75,4.5,2.5,2.5,1.5,17.5
+Mario,Mercedes GLA,Cyber Slick,Hylian Kite,4.75,1.75,4.25,2.5,2.75,1.5,17.5
+Mario,Mercedes GLA,Cyber Slick,Gold Glider,4.75,1.75,4.5,2.5,2.5,1.5,17.5
+Mario,Mercedes GLA,Cyber Slick,Super Glider,4.75,1.75,4.25,2.5,2.75,1.5,17.5
+Mario,Mercedes GLA,Cyber Slick,Waddle Wing,4.75,1.75,4.25,2.5,2.75,1.5,17.5
+Mario,Mercedes GLA,Slick,Plane Glider,4.75,1.75,4.5,2.5,2.5,1.5,17.5
+Mario,Mercedes GLA,Slick,Wario Wing,4.75,1.75,4.5,2.5,2.5,1.5,17.5
+Mario,Mercedes GLA,Slick,Hylian Kite,4.75,1.75,4.25,2.5,2.75,1.5,17.5
+Mario,Mercedes GLA,Slick,Gold Glider,4.75,1.75,4.5,2.5,2.5,1.5,17.5
+Mario,Mercedes GLA,Slick,Super Glider,4.75,1.75,4.25,2.5,2.75,1.5,17.5
+Mario,Mercedes GLA,Slick,Waddle Wing,4.75,1.75,4.25,2.5,2.75,1.5,17.5
+Mario,Mercedes GLA,Metal,Plane Glider,4.75,1.5,4.75,2.5,3.0,1.5,18.0
+Mario,Mercedes GLA,Metal,Wario Wing,4.75,1.5,4.75,2.5,3.0,1.5,18.0
+Mario,Mercedes GLA,Metal,Hylian Kite,4.75,1.5,4.5,2.5,3.25,1.5,18.0
+Mario,Mercedes GLA,Metal,Gold Glider,4.75,1.5,4.75,2.5,3.0,1.5,18.0
+Mario,Mercedes GLA,Metal,Super Glider,4.75,1.5,4.5,2.5,3.25,1.5,18.0
+Mario,Mercedes GLA,Metal,Waddle Wing,4.75,1.5,4.5,2.5,3.25,1.5,18.0
+Mario,P-Wing,Gold Tires,Plane Glider,4.75,1.75,4.5,2.75,2.25,2.0,18.0
+Mario,P-Wing,Gold Tires,Wario Wing,4.75,1.75,4.5,2.75,2.25,2.0,18.0
+Mario,P-Wing,Gold Tires,Hylian Kite,4.75,1.75,4.25,2.75,2.5,2.0,18.0
+Mario,P-Wing,Gold Tires,Gold Glider,4.75,1.75,4.5,2.75,2.25,2.0,18.0
+Mario,P-Wing,Gold Tires,Super Glider,4.75,1.75,4.25,2.75,2.5,2.0,18.0
+Mario,P-Wing,Gold Tires,Waddle Wing,4.75,1.75,4.25,2.75,2.5,2.0,18.0
+Mario,P-Wing,Cyber Slick,Plane Glider,4.75,2.0,4.25,2.75,1.75,2.0,17.5
+Mario,P-Wing,Cyber Slick,Wario Wing,4.75,2.0,4.25,2.75,1.75,2.0,17.5
+Mario,P-Wing,Cyber Slick,Hylian Kite,4.75,2.0,4.0,2.75,2.0,2.0,17.5
+Mario,P-Wing,Cyber Slick,Gold Glider,4.75,2.0,4.25,2.75,1.75,2.0,17.5
+Mario,P-Wing,Cyber Slick,Super Glider,4.75,2.0,4.0,2.75,2.0,2.0,17.5
+Mario,P-Wing,Cyber Slick,Waddle Wing,4.75,2.0,4.0,2.75,2.0,2.0,17.5
+Mario,P-Wing,Slick,Plane Glider,4.75,2.0,4.25,2.75,1.75,2.0,17.5
+Mario,P-Wing,Slick,Wario Wing,4.75,2.0,4.25,2.75,1.75,2.0,17.5
+Mario,P-Wing,Slick,Hylian Kite,4.75,2.0,4.0,2.75,2.0,2.0,17.5
+Mario,P-Wing,Slick,Gold Glider,4.75,2.0,4.25,2.75,1.75,2.0,17.5
+Mario,P-Wing,Slick,Super Glider,4.75,2.0,4.0,2.75,2.0,2.0,17.5
+Mario,P-Wing,Slick,Waddle Wing,4.75,2.0,4.0,2.75,2.0,2.0,17.5
+Mario,P-Wing,Metal,Plane Glider,4.75,1.75,4.5,2.75,2.25,2.0,18.0
+Mario,P-Wing,Metal,Wario Wing,4.75,1.75,4.5,2.75,2.25,2.0,18.0
+Mario,P-Wing,Metal,Hylian Kite,4.75,1.75,4.25,2.75,2.5,2.0,18.0
+Mario,P-Wing,Metal,Gold Glider,4.75,1.75,4.5,2.75,2.25,2.0,18.0
+Mario,P-Wing,Metal,Super Glider,4.75,1.75,4.25,2.75,2.5,2.0,18.0
+Mario,P-Wing,Metal,Waddle Wing,4.75,1.75,4.25,2.75,2.5,2.0,18.0
+Mario,Circuit Special,Gold Tires,Plane Glider,4.75,1.75,4.5,2.75,2.0,1.75,17.5
+Mario,Circuit Special,Gold Tires,Wario Wing,4.75,1.75,4.5,2.75,2.0,1.75,17.5
+Mario,Circuit Special,Gold Tires,Hylian Kite,4.75,1.75,4.25,2.75,2.25,1.75,17.5
+Mario,Circuit Special,Gold Tires,Gold Glider,4.75,1.75,4.5,2.75,2.0,1.75,17.5
+Mario,Circuit Special,Gold Tires,Super Glider,4.75,1.75,4.25,2.75,2.25,1.75,17.5
+Mario,Circuit Special,Gold Tires,Waddle Wing,4.75,1.75,4.25,2.75,2.25,1.75,17.5
+Mario,Circuit Special,Cyber Slick,Plane Glider,4.75,2.0,4.25,2.75,1.5,1.75,17.0
+Mario,Circuit Special,Cyber Slick,Wario Wing,4.75,2.0,4.25,2.75,1.5,1.75,17.0
+Mario,Circuit Special,Cyber Slick,Hylian Kite,4.75,2.0,4.0,2.75,1.75,1.75,17.0
+Mario,Circuit Special,Cyber Slick,Gold Glider,4.75,2.0,4.25,2.75,1.5,1.75,17.0
+Mario,Circuit Special,Cyber Slick,Super Glider,4.75,2.0,4.0,2.75,1.75,1.75,17.0
+Mario,Circuit Special,Cyber Slick,Waddle Wing,4.75,2.0,4.0,2.75,1.75,1.75,17.0
+Mario,Circuit Special,Slick,Plane Glider,4.75,2.0,4.25,2.75,1.5,1.75,17.0
+Mario,Circuit Special,Slick,Wario Wing,4.75,2.0,4.25,2.75,1.5,1.75,17.0
+Mario,Circuit Special,Slick,Hylian Kite,4.75,2.0,4.0,2.75,1.75,1.75,17.0
+Mario,Circuit Special,Slick,Gold Glider,4.75,2.0,4.25,2.75,1.5,1.75,17.0
+Mario,Circuit Special,Slick,Super Glider,4.75,2.0,4.0,2.75,1.75,1.75,17.0
+Mario,Circuit Special,Slick,Waddle Wing,4.75,2.0,4.0,2.75,1.75,1.75,17.0
+Mario,Circuit Special,Metal,Plane Glider,4.75,1.75,4.5,2.75,2.0,1.75,17.5
+Mario,Circuit Special,Metal,Wario Wing,4.75,1.75,4.5,2.75,2.0,1.75,17.5
+Mario,Circuit Special,Metal,Hylian Kite,4.75,1.75,4.25,2.75,2.25,1.75,17.5
+Mario,Circuit Special,Metal,Gold Glider,4.75,1.75,4.5,2.75,2.0,1.75,17.5
+Mario,Circuit Special,Metal,Super Glider,4.75,1.75,4.25,2.75,2.25,1.75,17.5
+Mario,Circuit Special,Metal,Waddle Wing,4.75,1.75,4.25,2.75,2.25,1.75,17.5
