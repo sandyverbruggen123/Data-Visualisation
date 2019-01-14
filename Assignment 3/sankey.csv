@@ -1,0 +1,289 @@
+source,target,value,color
+B Dasher,Gold Tires,4.5,#7e1818
+B Dasher,Gold Tires,4.5,#e61f1f
+B Dasher,Gold Tires,4.25,#e34a4a
+B Dasher,Gold Tires,4.5,#af4e17
+B Dasher,Gold Tires,4.25,#eb7532
+B Dasher,Gold Tires,4.25,#eba47c
+B Dasher,Cyber Slick,4.25,#c59d04
+B Dasher,Cyber Slick,4.25,#f7d038
+B Dasher,Cyber Slick,4,#f4de8b
+B Dasher,Cyber Slick,4.25,#72a427
+B Dasher,Cyber Slick,4,#a3e048
+B Dasher,Cyber Slick,4,#c1e291
+B Dasher,Slick,4.25,#1b8e5b
+B Dasher,Slick,4.25,#49da9a
+B Dasher,Slick,4,#8ee3be
+B Dasher,Slick,4.25,#1a7795
+B Dasher,Slick,4,#34bbe6
+B Dasher,Slick,4,#8ebece
+B Dasher,Metal,4.5,#1c298e
+B Dasher,Metal,4.5,#4355db
+B Dasher,Metal,4.25,#8790d5
+B Dasher,Metal,4.5,#7e298a
+B Dasher,Metal,4.25,#d23be7
+B Dasher,Metal,4.25,#bd7bc6
+Standard ATV,Gold Tires,4.75,#7e1818
+Standard ATV,Gold Tires,4.75,#e61f1f
+Standard ATV,Gold Tires,4.5,#e34a4a
+Standard ATV,Gold Tires,4.75,#af4e17
+Standard ATV,Gold Tires,4.5,#eb7532
+Standard ATV,Gold Tires,4.5,#eba47c
+Standard ATV,Cyber Slick,4.5,#c59d04
+Standard ATV,Cyber Slick,4.5,#f7d038
+Standard ATV,Cyber Slick,4.25,#f4de8b
+Standard ATV,Cyber Slick,4.5,#72a427
+Standard ATV,Cyber Slick,4.25,#a3e048
+Standard ATV,Cyber Slick,4.25,#c1e291
+Standard ATV,Slick,4.5,#1b8e5b
+Standard ATV,Slick,4.5,#49da9a
+Standard ATV,Slick,4.25,#8ee3be
+Standard ATV,Slick,4.5,#1a7795
+Standard ATV,Slick,4.25,#34bbe6
+Standard ATV,Slick,4.25,#8ebece
+Standard ATV,Metal,4.75,#1c298e
+Standard ATV,Metal,4.75,#4355db
+Standard ATV,Metal,4.5,#8790d5
+Standard ATV,Metal,4.75,#7e298a
+Standard ATV,Metal,4.5,#d23be7
+Standard ATV,Metal,4.5,#bd7bc6
+Badwagon,Gold Tires,4.75,#7e1818
+Badwagon,Gold Tires,4.75,#e61f1f
+Badwagon,Gold Tires,4.5,#e34a4a
+Badwagon,Gold Tires,4.75,#af4e17
+Badwagon,Gold Tires,4.5,#eb7532
+Badwagon,Gold Tires,4.5,#eba47c
+Badwagon,Cyber Slick,4.5,#c59d04
+Badwagon,Cyber Slick,4.5,#f7d038
+Badwagon,Cyber Slick,4.25,#f4de8b
+Badwagon,Cyber Slick,4.5,#72a427
+Badwagon,Cyber Slick,4.25,#a3e048
+Badwagon,Cyber Slick,4.25,#c1e291
+Badwagon,Slick,4.5,#1b8e5b
+Badwagon,Slick,4.5,#49da9a
+Badwagon,Slick,4.25,#8ee3be
+Badwagon,Slick,4.5,#1a7795
+Badwagon,Slick,4.25,#34bbe6
+Badwagon,Slick,4.25,#8ebece
+Badwagon,Metal,4.75,#1c298e
+Badwagon,Metal,4.75,#4355db
+Badwagon,Metal,4.5,#8790d5
+Badwagon,Metal,4.75,#7e298a
+Badwagon,Metal,4.5,#d23be7
+Badwagon,Metal,4.5,#bd7bc6
+Mercedes GLA,Gold Tires,4.75,#7e1818
+Mercedes GLA,Gold Tires,4.75,#e61f1f
+Mercedes GLA,Gold Tires,4.5,#e34a4a
+Mercedes GLA,Gold Tires,4.75,#af4e17
+Mercedes GLA,Gold Tires,4.5,#eb7532
+Mercedes GLA,Gold Tires,4.5,#eba47c
+Mercedes GLA,Cyber Slick,4.5,#c59d04
+Mercedes GLA,Cyber Slick,4.5,#f7d038
+Mercedes GLA,Cyber Slick,4.25,#f4de8b
+Mercedes GLA,Cyber Slick,4.5,#72a427
+Mercedes GLA,Cyber Slick,4.25,#a3e048
+Mercedes GLA,Cyber Slick,4.25,#c1e291
+Mercedes GLA,Slick,4.5,#1b8e5b
+Mercedes GLA,Slick,4.5,#49da9a
+Mercedes GLA,Slick,4.25,#8ee3be
+Mercedes GLA,Slick,4.5,#1a7795
+Mercedes GLA,Slick,4.25,#34bbe6
+Mercedes GLA,Slick,4.25,#8ebece
+Mercedes GLA,Metal,4.75,#1c298e
+Mercedes GLA,Metal,4.75,#4355db
+Mercedes GLA,Metal,4.5,#8790d5
+Mercedes GLA,Metal,4.75,#7e298a
+Mercedes GLA,Metal,4.5,#d23be7
+Mercedes GLA,Metal,4.5,#bd7bc6
+P-Wing,Gold Tires,4.5,#7e1818
+P-Wing,Gold Tires,4.5,#e61f1f
+P-Wing,Gold Tires,4.25,#e34a4a
+P-Wing,Gold Tires,4.5,#af4e17
+P-Wing,Gold Tires,4.25,#eb7532
+P-Wing,Gold Tires,4.25,#eba47c
+P-Wing,Cyber Slick,4.25,#c59d04
+P-Wing,Cyber Slick,4.25,#f7d038
+P-Wing,Cyber Slick,4,#f4de8b
+P-Wing,Cyber Slick,4.25,#72a427
+P-Wing,Cyber Slick,4,#a3e048
+P-Wing,Cyber Slick,4,#c1e291
+P-Wing,Slick,4.25,#1b8e5b
+P-Wing,Slick,4.25,#49da9a
+P-Wing,Slick,4,#8ee3be
+P-Wing,Slick,4.25,#1a7795
+P-Wing,Slick,4,#34bbe6
+P-Wing,Slick,4,#8ebece
+P-Wing,Metal,4.5,#1c298e
+P-Wing,Metal,4.5,#4355db
+P-Wing,Metal,4.25,#8790d5
+P-Wing,Metal,4.5,#7e298a
+P-Wing,Metal,4.25,#d23be7
+P-Wing,Metal,4.25,#bd7bc6
+Circuit Special,Gold Tires,4.5,#7e1818
+Circuit Special,Gold Tires,4.5,#e61f1f
+Circuit Special,Gold Tires,4.25,#e34a4a
+Circuit Special,Gold Tires,4.5,#af4e17
+Circuit Special,Gold Tires,4.25,#eb7532
+Circuit Special,Gold Tires,4.25,#eba47c
+Circuit Special,Cyber Slick,4.25,#c59d04
+Circuit Special,Cyber Slick,4.25,#f7d038
+Circuit Special,Cyber Slick,4,#f4de8b
+Circuit Special,Cyber Slick,4.25,#72a427
+Circuit Special,Cyber Slick,4,#a3e048
+Circuit Special,Cyber Slick,4,#c1e291
+Circuit Special,Slick,4.25,#1b8e5b
+Circuit Special,Slick,4.25,#49da9a
+Circuit Special,Slick,4,#8ee3be
+Circuit Special,Slick,4.25,#1a7795
+Circuit Special,Slick,4,#34bbe6
+Circuit Special,Slick,4,#8ebece
+Circuit Special,Metal,4.5,#1c298e
+Circuit Special,Metal,4.5,#4355db
+Circuit Special,Metal,4.25,#8790d5
+Circuit Special,Metal,4.5,#7e298a
+Circuit Special,Metal,4.25,#d23be7
+Circuit Special,Metal,4.25,#bd7bc6
+Gold Tires,Plane Glider,4.5,#7e1818
+Gold Tires,Wario Wing,4.5,#e61f1f
+Gold Tires,Hylian Kite,4.25,#e34a4a
+Gold Tires,Gold Glider,4.5,#af4e17
+Gold Tires,Super Glider,4.25,#eb7532
+Gold Tires,Waddle Wing,4.25,#eba47c
+Cyber Slick,Plane Glider,4.25,#c59d04
+Cyber Slick,Wario Wing,4.25,#f7d038
+Cyber Slick,Hylian Kite,4,#f4de8b
+Cyber Slick,Gold Glider,4.25,#72a427
+Cyber Slick,Super Glider,4,#a3e048
+Cyber Slick,Waddle Wing,4,#c1e291
+Slick,Plane Glider,4.25,#1b8e5b
+Slick,Wario Wing,4.25,#49da9a
+Slick,Hylian Kite,4,#8ee3be
+Slick,Gold Glider,4.25,#1a7795
+Slick,Super Glider,4,#34bbe6
+Slick,Waddle Wing,4,#8ebece
+Metal,Plane Glider,4.5,#1c298e
+Metal,Wario Wing,4.5,#4355db
+Metal,Hylian Kite,4.25,#8790d5
+Metal,Gold Glider,4.5,#7e298a
+Metal,Super Glider,4.25,#d23be7
+Metal,Waddle Wing,4.25,#bd7bc6
+Gold Tires,Plane Glider,4.75,#7e1818
+Gold Tires,Wario Wing,4.75,#e61f1f
+Gold Tires,Hylian Kite,4.5,#e34a4a
+Gold Tires,Gold Glider,4.75,#af4e17
+Gold Tires,Super Glider,4.5,#eb7532
+Gold Tires,Waddle Wing,4.5,#eba47c
+Cyber Slick,Plane Glider,4.5,#c59d04
+Cyber Slick,Wario Wing,4.5,#f7d038
+Cyber Slick,Hylian Kite,4.25,#f4de8b
+Cyber Slick,Gold Glider,4.5,#72a427
+Cyber Slick,Super Glider,4.25,#a3e048
+Cyber Slick,Waddle Wing,4.25,#c1e291
+Slick,Plane Glider,4.5,#1b8e5b
+Slick,Wario Wing,4.5,#49da9a
+Slick,Hylian Kite,4.25,#8ee3be
+Slick,Gold Glider,4.5,#1a7795
+Slick,Super Glider,4.25,#34bbe6
+Slick,Waddle Wing,4.25,#8ebece
+Metal,Plane Glider,4.75,#1c298e
+Metal,Wario Wing,4.75,#4355db
+Metal,Hylian Kite,4.5,#8790d5
+Metal,Gold Glider,4.75,#7e298a
+Metal,Super Glider,4.5,#d23be7
+Metal,Waddle Wing,4.5,#bd7bc6
+Gold Tires,Plane Glider,4.75,#7e1818
+Gold Tires,Wario Wing,4.75,#e61f1f
+Gold Tires,Hylian Kite,4.5,#e34a4a
+Gold Tires,Gold Glider,4.75,#af4e17
+Gold Tires,Super Glider,4.5,#eb7532
+Gold Tires,Waddle Wing,4.5,#eba47c
+Cyber Slick,Plane Glider,4.5,#c59d04
+Cyber Slick,Wario Wing,4.5,#f7d038
+Cyber Slick,Hylian Kite,4.25,#f4de8b
+Cyber Slick,Gold Glider,4.5,#72a427
+Cyber Slick,Super Glider,4.25,#a3e048
+Cyber Slick,Waddle Wing,4.25,#c1e291
+Slick,Plane Glider,4.5,#1b8e5b
+Slick,Wario Wing,4.5,#49da9a
+Slick,Hylian Kite,4.25,#8ee3be
+Slick,Gold Glider,4.5,#1a7795
+Slick,Super Glider,4.25,#34bbe6
+Slick,Waddle Wing,4.25,#8ebece
+Metal,Plane Glider,4.75,#1c298e
+Metal,Wario Wing,4.75,#4355db
+Metal,Hylian Kite,4.5,#8790d5
+Metal,Gold Glider,4.75,#7e298a
+Metal,Super Glider,4.5,#d23be7
+Metal,Waddle Wing,4.5,#bd7bc6
+Gold Tires,Plane Glider,4.75,#7e1818
+Gold Tires,Wario Wing,4.75,#e61f1f
+Gold Tires,Hylian Kite,4.5,#e34a4a
+Gold Tires,Gold Glider,4.75,#af4e17
+Gold Tires,Super Glider,4.5,#eb7532
+Gold Tires,Waddle Wing,4.5,#eba47c
+Cyber Slick,Plane Glider,4.5,#c59d04
+Cyber Slick,Wario Wing,4.5,#f7d038
+Cyber Slick,Hylian Kite,4.25,#f4de8b
+Cyber Slick,Gold Glider,4.5,#72a427
+Cyber Slick,Super Glider,4.25,#a3e048
+Cyber Slick,Waddle Wing,4.25,#c1e291
+Slick,Plane Glider,4.5,#1b8e5b
+Slick,Wario Wing,4.5,#49da9a
+Slick,Hylian Kite,4.25,#8ee3be
+Slick,Gold Glider,4.5,#1a7795
+Slick,Super Glider,4.25,#34bbe6
+Slick,Waddle Wing,4.25,#8ebece
+Metal,Plane Glider,4.75,#1c298e
+Metal,Wario Wing,4.75,#4355db
+Metal,Hylian Kite,4.5,#8790d5
+Metal,Gold Glider,4.75,#7e298a
+Metal,Super Glider,4.5,#d23be7
+Metal,Waddle Wing,4.5,#bd7bc6
+Gold Tires,Plane Glider,4.5,#7e1818
+Gold Tires,Wario Wing,4.5,#e61f1f
+Gold Tires,Hylian Kite,4.25,#e34a4a
+Gold Tires,Gold Glider,4.5,#af4e17
+Gold Tires,Super Glider,4.25,#eb7532
+Gold Tires,Waddle Wing,4.25,#eba47c
+Cyber Slick,Plane Glider,4.25,#c59d04
+Cyber Slick,Wario Wing,4.25,#f7d038
+Cyber Slick,Hylian Kite,4,#f4de8b
+Cyber Slick,Gold Glider,4.25,#72a427
+Cyber Slick,Super Glider,4,#a3e048
+Cyber Slick,Waddle Wing,4,#c1e291
+Slick,Plane Glider,4.25,#1b8e5b
+Slick,Wario Wing,4.25,#49da9a
+Slick,Hylian Kite,4,#8ee3be
+Slick,Gold Glider,4.25,#1a7795
+Slick,Super Glider,4,#34bbe6
+Slick,Waddle Wing,4,#8ebece
+Metal,Plane Glider,4.5,#1c298e
+Metal,Wario Wing,4.5,#4355db
+Metal,Hylian Kite,4.25,#8790d5
+Metal,Gold Glider,4.5,#7e298a
+Metal,Super Glider,4.25,#d23be7
+Metal,Waddle Wing,4.25,#bd7bc6
+Gold Tires,Plane Glider,4.5,#7e1818
+Gold Tires,Wario Wing,4.5,#e61f1f
+Gold Tires,Hylian Kite,4.25,#e34a4a
+Gold Tires,Gold Glider,4.5,#af4e17
+Gold Tires,Super Glider,4.25,#eb7532
+Gold Tires,Waddle Wing,4.25,#eba47c
+Cyber Slick,Plane Glider,4.25,#c59d04
+Cyber Slick,Wario Wing,4.25,#f7d038
+Cyber Slick,Hylian Kite,4,#f4de8b
+Cyber Slick,Gold Glider,4.25,#72a427
+Cyber Slick,Super Glider,4,#a3e048
+Cyber Slick,Waddle Wing,4,#c1e291
+Slick,Plane Glider,4.25,#1b8e5b
+Slick,Wario Wing,4.25,#49da9a
+Slick,Hylian Kite,4,#8ee3be
+Slick,Gold Glider,4.25,#1a7795
+Slick,Super Glider,4,#34bbe6
+Slick,Waddle Wing,4,#8ebece
+Metal,Plane Glider,4.5,#1c298e
+Metal,Wario Wing,4.5,#4355db
+Metal,Hylian Kite,4.25,#8790d5
+Metal,Gold Glider,4.5,#7e298a
+Metal,Super Glider,4.25,#d23be7
+Metal,Waddle Wing,4.25,#bd7bc6
