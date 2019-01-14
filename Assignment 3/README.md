@@ -21,3 +21,4 @@ I wanted to show the different combinations of the fastest karts from Mario in M
 Explanatory - Static - D3 
 
 ## Final result
+![alt text](https://github.com/sandyverbruggen123/Data-Visualisation/blob/master/Assignment%203/FinalResult.png)
