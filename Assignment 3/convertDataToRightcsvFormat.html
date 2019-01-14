@@ -1,0 +1,93 @@
+<!--
+Sources used
+https://stackoverflow.com/questions/7431268/how-to-read-data-from-csv-file-using-javascript
+https://developer.mozilla.org/nl/docs/Web/JavaScript/Reference/Global_Objects/Array/includes
+
+-->
+
+<!DOCTYPE html>
+<meta charset="utf-8">
+<title>Convert data</title>
+<style>
+
+</style>
+
+<body>
+
+  <!--<script src="https://d3js.org/d3.v4.min.js"></script>-->
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+  <script src="d3.v4.js"></script>
+  <script src="sankey.js"></script>
+  <script>
+    // variables to put data in
+    //var jsonData = "{'nodes': [";
+    var karts = [];
+    var tires = [];
+    var gliders = [];
+    var lines = [];
+    var allTextLines;
+    var kartToTireData = "source,target,value,color\n";
+    var tireToGlideData = "";
+    var rainbowColors = ["#7e1818", "#e61f1f", "#e34a4a", "#af4e17", "#eb7532", "#eba47c", "#c59d04", "#f7d038", "#f4de8b", "#72a427", "#a3e048", "#c1e291", "#1b8e5b", "#49da9a", "#8ee3be", "#1a7795", "#34bbe6", "#8ebece", "#1c298e", "#4355db", "#8790d5", "#7e298a", "#d23be7", "#bd7bc6"];
+
+    $(document).ready(function () {
+      $.ajax({
+        type: "GET",
+        url: "mario-kart-8-deluxe-kart-stats-QueryResult_speed4.75.csv",
+        dataType: "text",
+        success: function (data) {
+          processData(data);
+
+          // for each line in the data file
+          for (var i = 0; i < allTextLines.length - 1; i++) {
+            //nodes
+            if (!karts.includes(lines[i][1])) {
+              karts.push(lines[i][1]);
+            }
+
+            if (!tires.includes(lines[i][2])) {
+              tires.push(lines[i][2]);
+            }
+
+            if (!gliders.includes(lines[i][3])) {
+              gliders.push(lines[i][3]);
+            }
+
+            // links
+            // kart -> tires
+            kartToTireData += lines[i][1] + "," + lines[i][2] + "," + parseFloat(lines[i][6]) + "," + rainbowColors[i % 24] + "\n";
+            //console.log(kartToTireData);
+
+
+            // tires -> glider
+            tireToGlideData += lines[i][2] + "," + lines[i][3] + "," + parseFloat(lines[i][6]) + "," + rainbowColors[i % 24] + "\n";
+            console.log(tireToGlideData);
+          }
+        }
+      });
+    });
+
+    // function to read csv data 
+    function processData(allText) {
+      // split every row
+      allTextLines = allText.split(/\r\n|\n/);
+      var headers = allTextLines[0].split(',');
+
+      for (var i = 1; i < allTextLines.length; i++) {
+        // split by comma
+        var data = allTextLines[i].split(',');
+        if (data.length == headers.length) {
+
+          var tarr = [];
+          for (var j = 0; j < headers.length; j++) {
+
+            tarr.push(data[j]);
+          }
+          lines.push(tarr);
+        }
+      }
+
+    }
+  </script>
+
+</body>
