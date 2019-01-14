@@ -1,7 +1,10 @@
 # Assignment 3
 
 ## Process
-I wanted to show something like a race track. I searched for a data visualisation that looks most like this. And I found an Sankey diagram. First I drew all nodes and links and this result was a nice symmetric visualisation. But all the tracks were in the same color so you couldn't see the right combinations. So I give for every diferent category of the kart every track another color. 
+I wanted to show something like a race track. I searched for a data visualisation that looks most like this. And I found an Sankey diagram. First I drew all nodes and links and this result was a nice symmetric visualisation. But all the tracks were in the same color so you couldn't see the right combinations. So I give for every diferent category of the kart every track another color. This was the result made in html.
+
+
+After this I edited the visualisation in Illustrator. I rotated it because otherwise the text in the nodes wasn't readable. 
 
 ## Goal
 I wanted to show the different combinations of the fastest karts from Mario in Mario Kart 8 Deluxe. In other Mario Kart games you have to choose just your kart but in Mario Kart 8 Deluxe you have to choose a kart, tires and a glider. So if you want the fastest car in the game, you have to follow one of the "race tracks" on the poster in one color.
