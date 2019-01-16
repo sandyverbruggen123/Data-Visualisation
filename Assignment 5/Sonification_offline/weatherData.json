@@ -1,0 +1,1762 @@
+[{
+"coord": {
+"lon": 16.37,
+"lat": 48.21
+},
+"weather": [
+{
+"id": 802,
+"main": "Clouds",
+"description": "scattered clouds",
+"icon": "03d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 5.66,
+"pressure": 1007,
+"humidity": 86,
+"temp_min": 5,
+"temp_max": 6
+},
+"visibility": 10000,
+"wind": {
+"speed": 8.7,
+"deg": 280
+},
+"clouds": {
+"all": 40
+},
+"dt": 1547374800,
+"sys": {
+"type": 1,
+"id": 6878,
+"message": 0.0025,
+"country": "AT",
+"sunrise": 1547361689,
+"sunset": 1547393122
+},
+"id": 2761369,
+"name": "Vienna",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 149.1,
+"lat": -35.3
+},
+"weather": [
+{
+"id": 801,
+"main": "Clouds",
+"description": "few clouds",
+"icon": "02n"
+}
+],
+"base": "stations",
+"main": {
+"temp": 19,
+"pressure": 1022,
+"humidity": 77,
+"temp_min": 19,
+"temp_max": 19
+},
+"visibility": 10000,
+"wind": {
+"speed": 6.7,
+"deg": 110
+},
+"clouds": {
+"all": 12
+},
+"dt": 1547373600,
+"sys": {
+"type": 1,
+"id": 9588,
+"message": 0.0796,
+"country": "AU",
+"sunrise": 1547319759,
+"sunset": 1547371283
+},
+"id": 2172517,
+"name": "Canberra",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 49.83,
+"lat": 40.38
+},
+"weather": [
+{
+"id": 802,
+"main": "Clouds",
+"description": "scattered clouds",
+"icon": "03d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 9,
+"pressure": 1005,
+"humidity": 76,
+"temp_min": 9,
+"temp_max": 9
+},
+"visibility": 10000,
+"wind": {
+"speed": 8.2,
+"deg": 190
+},
+"clouds": {
+"all": 40
+},
+"dt": 1547375400,
+"sys": {
+"type": 1,
+"id": 8841,
+"message": 0.0028,
+"country": "AZ",
+"sunrise": 1547352146,
+"sunset": 1547386596
+},
+"id": 587084,
+"name": "Baku",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 4.35,
+"lat": 50.85
+},
+"weather": [
+{
+"id": 310,
+"main": "Drizzle",
+"description": "light intensity drizzle rain",
+"icon": "09d"
+},
+{
+"id": 500,
+"main": "Rain",
+"description": "light rain",
+"icon": "10d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 9.29,
+"pressure": 1010,
+"humidity": 87,
+"temp_min": 9,
+"temp_max": 10
+},
+"visibility": 7000,
+"wind": {
+"speed": 7.7,
+"deg": 270
+},
+"clouds": {
+"all": 75
+},
+"dt": 1547376600,
+"sys": {
+"type": 1,
+"id": 1227,
+"message": 0.0053,
+"country": "BE",
+"sunrise": 1547365208,
+"sunset": 1547395376
+},
+"id": 2800866,
+"name": "Brussels",
+"cod": 200
+},
+ {
+"coord": {
+"lon": -37.55,
+"lat": -10.9
+},
+"weather": [
+{
+"id": 802,
+"main": "Clouds",
+"description": "scattered clouds",
+"icon": "03d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 28,
+"pressure": 1014,
+"humidity": 65,
+"temp_min": 28,
+"temp_max": 28
+},
+"visibility": 10000,
+"wind": {
+"speed": 4.1,
+"deg": 100
+},
+"clouds": {
+"all": 40
+},
+"dt": 1547373600,
+"sys": {
+"type": 1,
+"id": 8322,
+"message": 0.0421,
+"country": "BR",
+"sunrise": 1547367474,
+"sunset": 1547413200
+},
+"id": 3459342,
+"name": "Brasilia",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 23.32,
+"lat": 42.7
+},
+"weather": [
+{
+"id": 801,
+"main": "Clouds",
+"description": "few clouds",
+"icon": "02d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 0,
+"pressure": 1009,
+"humidity": 92,
+"temp_min": 0,
+"temp_max": 0
+},
+"visibility": 10000,
+"wind": {
+"speed": 1
+},
+"clouds": {
+"all": 20
+},
+"dt": 1547375400,
+"sys": {
+"type": 1,
+"id": 6366,
+"message": 0.0022,
+"country": "BG",
+"sunrise": 1547358909,
+"sunset": 1547392563
+},
+"id": 727011,
+"name": "Sofia",
+"cod": 200
+},
+ {
+"coord": {
+"lon": -75.69,
+"lat": 45.42
+},
+"weather": [
+{
+"id": 804,
+"main": "Clouds",
+"description": "overcast clouds",
+"icon": "04n"
+}
+],
+"base": "stations",
+"main": {
+"temp": -17,
+"pressure": 1035,
+"humidity": 77,
+"temp_min": -17,
+"temp_max": -17
+},
+"visibility": 24140,
+"wind": {
+"speed": 1.5,
+"deg": 270
+},
+"clouds": {
+"all": 90
+},
+"dt": 1547373600,
+"sys": {
+"type": 1,
+"id": 872,
+"message": 0.0178,
+"country": "CA",
+"sunrise": 1547383181,
+"sunset": 1547415830
+},
+"id": 6094817,
+"name": "Ottawa",
+"cod": 200
+},
+ {
+"coord": {
+"lon": -70.65,
+"lat": -33.44
+},
+"weather": [
+{
+"id": 800,
+"main": "Clear",
+"description": "clear sky",
+"icon": "01d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 15,
+"pressure": 1016,
+"humidity": 62,
+"temp_min": 15,
+"temp_max": 15
+},
+"visibility": 10000,
+"wind": {
+"speed": 2.6,
+"deg": 150
+},
+"clouds": {
+"all": 0
+},
+"dt": 1547373600,
+"sys": {
+"type": 1,
+"id": 8486,
+"message": 0.0425,
+"country": "CL",
+"sunrise": 1547372810,
+"sunset": 1547423741
+},
+"id": 3871336,
+"name": "Santiago",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 116.39,
+"lat": 39.91
+},
+"weather": [
+{
+"id": 800,
+"main": "Clear",
+"description": "clear sky",
+"icon": "01n"
+}
+],
+"base": "stations",
+"main": {
+"temp": -1,
+"pressure": 1027,
+"humidity": 28,
+"temp_min": -1,
+"temp_max": -1
+},
+"visibility": 10000,
+"wind": {
+"speed": 3,
+"deg": 160
+},
+"clouds": {
+"all": 0
+},
+"dt": 1547375400,
+"sys": {
+"type": 1,
+"id": 9609,
+"message": 0.0024,
+"country": "CN",
+"sunrise": 1547336097,
+"sunset": 1547370688
+},
+"id": 1816670,
+"name": "Beijing",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 15.98,
+"lat": 45.81
+},
+"weather": [
+{
+"id": 800,
+"main": "Clear",
+"description": "clear sky",
+"icon": "01d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 7,
+"pressure": 1010,
+"humidity": 52,
+"temp_min": 7,
+"temp_max": 7
+},
+"visibility": 10000,
+"wind": {
+"speed": 3.1,
+"deg": 250
+},
+"clouds": {
+"all": 0
+},
+"dt": 1547375400,
+"sys": {
+"type": 1,
+"id": 6389,
+"message": 0.0322,
+"country": "HR",
+"sunrise": 1547361266,
+"sunset": 1547393731
+},
+"id": 3186886,
+"name": "Zagreb",
+"cod": 200
+},
+ {
+"coord": {
+"lon": -82.37,
+"lat": 23.14
+},
+"weather": [
+{
+"id": 801,
+"main": "Clouds",
+"description": "few clouds",
+"icon": "02n"
+}
+],
+"base": "stations",
+"main": {
+"temp": 17,
+"pressure": 1019,
+"humidity": 93,
+"temp_min": 17,
+"temp_max": 17
+},
+"visibility": 9000,
+"wind": {
+"speed": 1.5,
+"deg": 70
+},
+"clouds": {
+"all": 20
+},
+"dt": 1547376900,
+"sys": {
+"type": 1,
+"id": 7236,
+"message": 0.0034,
+"country": "CU",
+"sunrise": 1547381571,
+"sunset": 1547420637
+},
+"id": 3553478,
+"name": "Havana",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 14.42,
+"lat": 50.09
+},
+"weather": [
+{
+"id": 500,
+"main": "Rain",
+"description": "light rain",
+"icon": "10d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 4.58,
+"pressure": 1002,
+"humidity": 80,
+"temp_min": 4,
+"temp_max": 5
+},
+"visibility": 10000,
+"wind": {
+"speed": 7.7,
+"deg": 230
+},
+"clouds": {
+"all": 90
+},
+"dt": 1547376000,
+"sys": {
+"type": 1,
+"id": 6848,
+"message": 0.0563,
+"country": "CZ",
+"sunrise": 1547362601,
+"sunset": 1547393149
+},
+"id": 3067696,
+"name": "Prague",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 12.57,
+"lat": 55.69
+},
+"weather": [
+{
+"id": 500,
+"main": "Rain",
+"description": "light rain",
+"icon": "10d"
+},
+{
+"id": 701,
+"main": "Mist",
+"description": "mist",
+"icon": "50d"
+},
+{
+"id": 301,
+"main": "Drizzle",
+"description": "drizzle",
+"icon": "09d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 5.59,
+"pressure": 986,
+"humidity": 93,
+"temp_min": 5,
+"temp_max": 7
+},
+"visibility": 10000,
+"wind": {
+"speed": 7.2,
+"deg": 240
+},
+"clouds": {
+"all": 90
+},
+"dt": 1547376600,
+"sys": {
+"type": 1,
+"id": 1575,
+"message": 0.003,
+"country": "DK",
+"sunrise": 1547364669,
+"sunset": 1547391972
+},
+"id": 2618425,
+"name": "Copenhagen",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 31.24,
+"lat": 30.05
+},
+"weather": [
+{
+"id": 751,
+"main": "Sand",
+"description": "sand",
+"icon": "50d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 15,
+"pressure": 1011,
+"humidity": 44,
+"temp_min": 15,
+"temp_max": 15
+},
+"visibility": 1500,
+"wind": {
+"speed": 10.8,
+"deg": 220
+},
+"clouds": {
+"all": 40
+},
+"dt": 1547373600,
+"sys": {
+"type": 1,
+"id": 2514,
+"message": 0.0022,
+"country": "EG",
+"sunrise": 1547355119,
+"sunset": 1547392544
+},
+"id": 360630,
+"name": "Cairo",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 24.94,
+"lat": 60.17
+},
+"weather": [
+{
+"id": 803,
+"main": "Clouds",
+"description": "broken clouds",
+"icon": "04d"
+}
+],
+"base": "stations",
+"main": {
+"temp": -5,
+"pressure": 984,
+"humidity": 100,
+"temp_min": -5,
+"temp_max": -5
+},
+"visibility": 8000,
+"wind": {
+"speed": 1.5,
+"deg": 120
+},
+"clouds": {
+"all": 75
+},
+"dt": 1547376600,
+"sys": {
+"type": 1,
+"id": 1332,
+"message": 0.0252,
+"country": "FI",
+"sunrise": 1547363522,
+"sunset": 1547387184
+},
+"id": 658225,
+"name": "Helsinki",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 2.35,
+"lat": 48.86
+},
+"weather": [
+{
+"id": 804,
+"main": "Clouds",
+"description": "overcast clouds",
+"icon": "04d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 11,
+"pressure": 1017,
+"humidity": 81,
+"temp_min": 11,
+"temp_max": 11
+},
+"visibility": 10000,
+"wind": {
+"speed": 5.1,
+"deg": 280
+},
+"clouds": {
+"all": 90
+},
+"dt": 1547375400,
+"sys": {
+"type": 1,
+"id": 6540,
+"message": 0.0484,
+"country": "FR",
+"sunrise": 1547365201,
+"sunset": 1547396343
+},
+"id": 2988507,
+"name": "Paris",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 13.39,
+"lat": 52.52
+},
+"weather": [
+{
+"id": 500,
+"main": "Rain",
+"description": "light rain",
+"icon": "10d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 6,
+"pressure": 996,
+"humidity": 93,
+"temp_min": 6,
+"temp_max": 6
+},
+"visibility": 8000,
+"wind": {
+"speed": 7.7,
+"deg": 240
+},
+"clouds": {
+"all": 75
+},
+"dt": 1547376600,
+"sys": {
+"type": 1,
+"id": 1275,
+"message": 0.0776,
+"country": "DE",
+"sunrise": 1547363489,
+"sunset": 1547392756
+},
+"id": 2950159,
+"name": "Berlin",
+"cod": 200
+},
+ {
+"coord": {
+"lon": -86.97,
+"lat": 34.8
+},
+"weather": [
+{
+"id": 500,
+"main": "Rain",
+"description": "light rain",
+"icon": "10n"
+},
+{
+"id": 701,
+"main": "Mist",
+"description": "mist",
+"icon": "50n"
+}
+],
+"base": "stations",
+"main": {
+"temp": 6.73,
+"pressure": 1018,
+"humidity": 89,
+"temp_min": 5.8,
+"temp_max": 8.3
+},
+"visibility": 16093,
+"wind": {
+"speed": 6.2,
+"deg": 250,
+"gust": 8.2
+},
+"rain": {
+"1h": 0.25
+},
+"clouds": {
+"all": 90
+},
+"dt": 1547377260,
+"sys": {
+"type": 1,
+"id": 3794,
+"message": 0.0024,
+"country": "US",
+"sunrise": 1547384119,
+"sunset": 1547420302
+},
+"id": 4830668,
+"name": "Athens",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 19.04,
+"lat": 47.5
+},
+"weather": [
+{
+"id": 803,
+"main": "Clouds",
+"description": "broken clouds",
+"icon": "04d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 3,
+"pressure": 1007,
+"humidity": 93,
+"temp_min": 3,
+"temp_max": 3
+},
+"visibility": 10000,
+"wind": {
+"speed": 4.6,
+"deg": 240
+},
+"clouds": {
+"all": 75
+},
+"dt": 1547375400,
+"sys": {
+"type": 1,
+"id": 6663,
+"message": 0.0192,
+"country": "HU",
+"sunrise": 1547360889,
+"sunset": 1547392640
+},
+"id": 3054643,
+"name": "Budapest",
+"cod": 200
+},
+ {
+"coord": {
+"lon": -21.94,
+"lat": 64.15
+},
+"weather": [
+{
+"id": 801,
+"main": "Clouds",
+"description": "few clouds",
+"icon": "02d"
+}
+],
+"base": "stations",
+"main": {
+"temp": -1,
+"pressure": 1011,
+"humidity": 74,
+"temp_min": -1,
+"temp_max": -1
+},
+"visibility": 10000,
+"wind": {
+"speed": 4.1,
+"deg": 350
+},
+"clouds": {
+"all": 20
+},
+"dt": 1547377200,
+"sys": {
+"type": 1,
+"id": 91,
+"message": 0.1448,
+"country": "IS",
+"sunrise": 1547377143,
+"sunset": 1547396075
+},
+"id": 3413829,
+"name": "Reykjavik",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 51.4,
+"lat": 35.7
+},
+"weather": [
+{
+"id": 601,
+"main": "Snow",
+"description": "snow",
+"icon": "13d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 3.62,
+"pressure": 1016,
+"humidity": 41,
+"temp_min": 2,
+"temp_max": 5
+},
+"visibility": 6000,
+"wind": {
+"speed": 0.59,
+"deg": 172.5
+},
+"clouds": {
+"all": 90
+},
+"dt": 1547377200,
+"sys": {
+"type": 1,
+"id": 7464,
+"message": 0.0042,
+"country": "IR",
+"sunrise": 1547351043,
+"sunset": 1547386943
+},
+"id": 112931,
+"name": "Tehran",
+"cod": 200
+},
+ {
+"coord": {
+"lon": -6.26,
+"lat": 53.35
+},
+"weather": [
+{
+"id": 300,
+"main": "Drizzle",
+"description": "light intensity drizzle",
+"icon": "09d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 9,
+"pressure": 1015,
+"humidity": 100,
+"temp_min": 9,
+"temp_max": 9
+},
+"visibility": 6000,
+"wind": {
+"speed": 8.7,
+"deg": 250,
+"gust": 13.9
+},
+"clouds": {
+"all": 75
+},
+"dt": 1547377200,
+"sys": {
+"type": 1,
+"id": 1565,
+"message": 0.009,
+"country": "IE",
+"sunrise": 1547368442,
+"sunset": 1547397239
+},
+"id": 2964574,
+"name": "Dublin",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 35.23,
+"lat": 31.78
+},
+"weather": [
+{
+"id": 801,
+"main": "Clouds",
+"description": "few clouds",
+"icon": "02d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 16.48,
+"pressure": 1009,
+"humidity": 45,
+"temp_min": 16,
+"temp_max": 17
+},
+"visibility": 10000,
+"wind": {
+"speed": 10.8,
+"deg": 210
+},
+"clouds": {
+"all": 20
+},
+"dt": 1547376600,
+"sys": {
+"type": 1,
+"id": 6845,
+"message": 0.0032,
+"country": "PS",
+"sunrise": 1547354384,
+"sunset": 1547391364
+},
+"id": 281184,
+"name": "Jerusalem",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 12.48,
+"lat": 41.89
+},
+"weather": [
+{
+"id": 802,
+"main": "Clouds",
+"description": "scattered clouds",
+"icon": "03d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 6.04,
+"pressure": 1012,
+"humidity": 66,
+"temp_min": 0,
+"temp_max": 12
+},
+"visibility": 10000,
+"wind": {
+"speed": 2.1,
+"deg": 190
+},
+"clouds": {
+"all": 40
+},
+"dt": 1547376600,
+"sys": {
+"type": 1,
+"id": 6792,
+"message": 0.0081,
+"country": "IT",
+"sunrise": 1547361366,
+"sunset": 1547395310
+},
+"id": 6539761,
+"name": "Rome",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 139.76,
+"lat": 35.68
+},
+"weather": [
+{
+"id": 801,
+"main": "Clouds",
+"description": "few clouds",
+"icon": "02n"
+}
+],
+"base": "stations",
+"main": {
+"temp": 5.51,
+"pressure": 1020,
+"humidity": 61,
+"temp_min": 3.7,
+"temp_max": 8
+},
+"visibility": 10000,
+"wind": {
+"speed": 5.1,
+"deg": 40
+},
+"clouds": {
+"all": 20
+},
+"dt": 1547377200,
+"sys": {
+"type": 1,
+"id": 8074,
+"message": 0.0037,
+"country": "JP",
+"sunrise": 1547329837,
+"sunset": 1547365726
+},
+"id": 1850147,
+"name": "Tokyo",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 24.11,
+"lat": 56.95
+},
+"weather": [
+{
+"id": 701,
+"main": "Mist",
+"description": "mist",
+"icon": "50d"
+}
+],
+"base": "stations",
+"main": {
+"temp": -1,
+"pressure": 987,
+"humidity": 100,
+"temp_min": -1,
+"temp_max": -1
+},
+"visibility": 5000,
+"wind": {
+"speed": 2.6,
+"deg": 170
+},
+"clouds": {
+"all": 90
+},
+"dt": 1547376600,
+"sys": {
+"type": 1,
+"id": 1876,
+"message": 0.003,
+"country": "LV",
+"sunrise": 1547362352,
+"sunset": 1547388750
+},
+"id": 456172,
+"name": "Riga",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 21.43,
+"lat": 42
+},
+"weather": [
+{
+"id": 802,
+"main": "Clouds",
+"description": "scattered clouds",
+"icon": "03d"
+}
+],
+"base": "stations",
+"main": {
+"temp": -2,
+"pressure": 1012,
+"humidity": 68,
+"temp_min": -2,
+"temp_max": -2
+},
+"visibility": 10000,
+"wind": {
+"speed": 1,
+"deg": 350
+},
+"clouds": {
+"all": 40
+},
+"dt": 1547377200,
+"sys": {
+"type": 1,
+"id": 7023,
+"message": 0.0019,
+"country": "MK",
+"sunrise": 1547359238,
+"sunset": 1547393141
+},
+"id": 785842,
+"name": "Skopje",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 85.32,
+"lat": 27.71
+},
+"weather": [
+{
+"id": 801,
+"main": "Clouds",
+"description": "few clouds",
+"icon": "02d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 16,
+"pressure": 1019,
+"humidity": 51,
+"temp_min": 16,
+"temp_max": 16
+},
+"visibility": 7000,
+"wind": {
+"speed": 4.1,
+"deg": 290
+},
+"clouds": {
+"all": 20
+},
+"dt": 1547374800,
+"sys": {
+"type": 1,
+"id": 9201,
+"message": 0.0025,
+"country": "NP",
+"sunrise": 1547341852,
+"sunset": 1547379845
+},
+"id": 1283240,
+"name": "Kathmandu",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 4.89,
+"lat": 52.37
+},
+"weather": [
+{
+"id": 500,
+"main": "Rain",
+"description": "light rain",
+"icon": "10d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 9.65,
+"pressure": 1005,
+"humidity": 87,
+"temp_min": 9,
+"temp_max": 10
+},
+"visibility": 10000,
+"wind": {
+"speed": 10.8,
+"deg": 280
+},
+"clouds": {
+"all": 90
+},
+"dt": 1547376900,
+"sys": {
+"type": 1,
+"id": 1524,
+"message": 0.0024,
+"country": "NL",
+"sunrise": 1547365486,
+"sunset": 1547394841
+},
+"id": 2759794,
+"name": "Amsterdam",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 10.74,
+"lat": 59.91
+},
+"weather": [
+{
+"id": 741,
+"main": "Fog",
+"description": "fog",
+"icon": "50d"
+}
+],
+"base": "stations",
+"main": {
+"temp": -2.25,
+"pressure": 977,
+"humidity": 92,
+"temp_min": -7,
+"temp_max": 2
+},
+"visibility": 300,
+"wind": {
+"speed": 1
+},
+"clouds": {
+"all": 90
+},
+"dt": 1547376600,
+"sys": {
+"type": 1,
+"id": 1624,
+"message": 0.0022,
+"country": "NO",
+"sunrise": 1547366801,
+"sunset": 1547390723
+},
+"id": 3143244,
+"name": "Oslo",
+"cod": 200
+},
+ {
+"coord": {
+"lon": -77.04,
+"lat": -12.06
+},
+"weather": [
+{
+"id": 803,
+"main": "Clouds",
+"description": "broken clouds",
+"icon": "04d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 22,
+"pressure": 1013,
+"humidity": 88,
+"temp_min": 22,
+"temp_max": 22
+},
+"visibility": 10000,
+"wind": {
+"speed": 4.6,
+"deg": 150
+},
+"clouds": {
+"all": 75
+},
+"dt": 1547377200,
+"sys": {
+"type": 1,
+"id": 8682,
+"message": 0.0021,
+"country": "PE",
+"sunrise": 1547376840,
+"sunset": 1547422793
+},
+"id": 3936456,
+"name": "Lima",
+"cod": 200
+},
+ {
+"coord": {
+"lon": -9.14,
+"lat": 38.71
+},
+"weather": [
+{
+"id": 800,
+"main": "Clear",
+"description": "clear sky",
+"icon": "01d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 8.62,
+"pressure": 1030,
+"humidity": 70,
+"temp_min": 7,
+"temp_max": 11
+},
+"visibility": 10000,
+"wind": {
+"speed": 4.6,
+"deg": 60
+},
+"clouds": {
+"all": 0
+},
+"dt": 1547375400,
+"sys": {
+"type": 1,
+"id": 6901,
+"message": 0.0219,
+"country": "PT",
+"sunrise": 1547366025,
+"sunset": 1547401030
+},
+"id": 2267057,
+"name": "Lisbon",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 51.53,
+"lat": 25.29
+},
+"weather": [
+{
+"id": 802,
+"main": "Clouds",
+"description": "scattered clouds",
+"icon": "03d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 21.72,
+"pressure": 1018,
+"humidity": 43,
+"temp_min": 21,
+"temp_max": 22.3
+},
+"visibility": 10000,
+"wind": {
+"speed": 1.24,
+"deg": 78.5004
+},
+"clouds": {
+"all": 40
+},
+"dt": 1547376960,
+"sys": {
+"type": 1,
+"id": 7615,
+"message": 0.0026,
+"country": "QA",
+"sunrise": 1547349677,
+"sunset": 1547388243
+},
+"id": 290030,
+"name": "Doha",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 103.85,
+"lat": 1.29
+},
+"weather": [
+{
+"id": 520,
+"main": "Rain",
+"description": "light intensity shower rain",
+"icon": "09d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 29,
+"pressure": 1009,
+"humidity": 74,
+"temp_min": 29,
+"temp_max": 29
+},
+"visibility": 10000,
+"wind": {
+"speed": 1.5,
+"deg": 10
+},
+"clouds": {
+"all": 75
+},
+"dt": 1547375400,
+"sys": {
+"type": 1,
+"id": 9480,
+"message": 0.0027,
+"country": "MY",
+"sunrise": 1547334696,
+"sunset": 1547378094
+},
+"id": 1880252,
+"name": "Singapore",
+"cod": 200
+},
+ {
+"coord": {
+"lon": -3.7,
+"lat": 40.42
+},
+"weather": [
+{
+"id": 800,
+"main": "Clear",
+"description": "clear sky",
+"icon": "01d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 3.96,
+"pressure": 1029,
+"humidity": 49,
+"temp_min": 1,
+"temp_max": 8
+},
+"visibility": 10000,
+"wind": {
+"speed": 1.82,
+"deg": 356.5
+},
+"clouds": {
+"all": 0
+},
+"dt": 1547375400,
+"sys": {
+"type": 1,
+"id": 6443,
+"message": 0.0025,
+"country": "ES",
+"sunrise": 1547364997,
+"sunset": 1547399447
+},
+"id": 3117735,
+"name": "Madrid",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 18.07,
+"lat": 59.33
+},
+"weather": [
+{
+"id": 800,
+"main": "Clear",
+"description": "clear sky",
+"icon": "01d"
+}
+],
+"base": "stations",
+"main": {
+"temp": -2.72,
+"pressure": 982,
+"humidity": 86,
+"temp_min": -4,
+"temp_max": -2
+},
+"visibility": 10000,
+"wind": {
+"speed": 1.5,
+"deg": 190
+},
+"clouds": {
+"all": 0
+},
+"dt": 1547376600,
+"sys": {
+"type": 1,
+"id": 1788,
+"message": 0.0019,
+"country": "SE",
+"sunrise": 1547364776,
+"sunset": 1547389228
+},
+"id": 2673730,
+"name": "Stockholm",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 7.45,
+"lat": 46.95
+},
+"weather": [
+{
+"id": 520,
+"main": "Rain",
+"description": "light intensity shower rain",
+"icon": "09d"
+},
+{
+"id": 600,
+"main": "Snow",
+"description": "light snow",
+"icon": "13d"
+},
+{
+"id": 701,
+"main": "Mist",
+"description": "mist",
+"icon": "50d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 2.57,
+"pressure": 1017,
+"humidity": 93,
+"temp_min": 0,
+"temp_max": 5
+},
+"visibility": 7000,
+"wind": {
+"speed": 2.6,
+"deg": 130
+},
+"clouds": {
+"all": 75
+},
+"dt": 1547376600,
+"sys": {
+"type": 1,
+"id": 6937,
+"message": 0.0023,
+"country": "CH",
+"sunrise": 1547363551,
+"sunset": 1547395544
+},
+"id": 2661552,
+"name": "Bern",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 100.49,
+"lat": 13.75
+},
+"weather": [
+{
+"id": 800,
+"main": "Clear",
+"description": "clear sky",
+"icon": "01d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 31.49,
+"pressure": 1010,
+"humidity": 49,
+"temp_min": 31,
+"temp_max": 32
+},
+"visibility": 10000,
+"wind": {
+"speed": 1.5,
+"deg": 90
+},
+"clouds": {
+"all": 0
+},
+"dt": 1547377200,
+"sys": {
+"type": 1,
+"id": 9235,
+"message": 0.002,
+"country": "TH",
+"sunrise": 1547336700,
+"sunset": 1547377708
+},
+"id": 1609350,
+"name": "Bangkok",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 32.85,
+"lat": 39.92
+},
+"weather": [
+{
+"id": 803,
+"main": "Clouds",
+"description": "broken clouds",
+"icon": "04d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 3.54,
+"pressure": 1005,
+"humidity": 80,
+"temp_min": 2,
+"temp_max": 4
+},
+"visibility": 10000,
+"wind": {
+"speed": 1.5,
+"deg": 20
+},
+"clouds": {
+"all": 75
+},
+"dt": 1547376600,
+"sys": {
+"type": 1,
+"id": 6947,
+"message": 0.0866,
+"country": "TR",
+"sunrise": 1547356144,
+"sunset": 1547390751
+},
+"id": 323786,
+"name": "Ankara",
+"cod": 200
+},
+ {
+"coord": {
+"lon": -0.13,
+"lat": 51.51
+},
+"weather": [
+{
+"id": 803,
+"main": "Clouds",
+"description": "broken clouds",
+"icon": "04d"
+}
+],
+"base": "stations",
+"main": {
+"temp": 9.59,
+"pressure": 1013,
+"humidity": 76,
+"temp_min": 9,
+"temp_max": 10
+},
+"visibility": 10000,
+"wind": {
+"speed": 8.7,
+"deg": 290
+},
+"clouds": {
+"all": 75
+},
+"dt": 1547376600,
+"sys": {
+"type": 1,
+"id": 1502,
+"message": 0.0066,
+"country": "GB",
+"sunrise": 1547366455,
+"sunset": 1547396281
+},
+"id": 2643743,
+"name": "London",
+"cod": 200
+},
+ {
+"coord": {
+"lon": 174.78,
+"lat": -41.29
+},
+"weather": [
+{
+"id": 500,
+"main": "Rain",
+"description": "light rain",
+"icon": "10n"
+}
+],
+"base": "stations",
+"main": {
+"temp": 17,
+"pressure": 1005,
+"humidity": 93,
+"temp_min": 17,
+"temp_max": 17
+},
+"visibility": 7000,
+"wind": {
+"speed": 10.3,
+"deg": 360
+},
+"clouds": {
+"all": 92
+},
+"dt": 1547377200,
+"sys": {
+"type": 1,
+"id": 7358,
+"message": 0.0041,
+"country": "NZ",
+"sunrise": 1547312589,
+"sunset": 1547366118
+},
+"id": 2179537,
+"name": "Wellington",
+"cod": 200
+}
+ ]
