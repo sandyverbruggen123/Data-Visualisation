@@ -13,6 +13,6 @@ I also made an visualisation in pure data to show the name of the capital en the
 I wanted to make sounds according to weather data from different capitals and create dynamic soundwaves.  
 
 ## Properties
-Explanatory - Auditive - Node-based
+Explanatory - Linear - Auditive - Node-based
 
 ## Final result
