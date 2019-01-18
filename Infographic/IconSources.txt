@@ -1,0 +1,30 @@
+circular chart by Thomas Marijnissen from the Noun Project 
+Spider chart by W. X. Chee from the Noun Project
+Sankey Chart by Kirby Wu from the Noun Project
+Merkle Trees by Becris from the Noun Project
+Pie Chart by Setyo Ari Wibowo from the Noun Project
+Arc Diagram by Evangeline White from the Noun Project
+chord diagram by Kirby Wu from the Noun Project
+Area Chart by Xinh Studio from the Noun Project
+chart by Jugalbandi from the Noun Project 
+Spline Chart by Alexander Blagochevsky from the Noun Project 
+line chart by Muneer A.Safiah from the Noun Project
+bar chart by Barracuda from the Noun Project
+bubble chart by Mani Cheng from the Noun Project
+Venn Diagram by Sharon Showalter from the Noun Project
+Horizontal bars by Noura Mbarki from the Noun Project
+polar chart by Kirby Wu from the Noun Project
+Scatter Diagram by Alexander Blagochevsky from the Noun Project
+Bubble Map by Severino Ribecca from the Noun Project
+Earth by hunotika from the Noun Project
+Map by Kirby Wu from the Noun Project
+Waterfall Chart by Kirby Wu from the Noun Project
+world by Jule Steffen & Matthias Schmidt from the Noun Project
+bar graph by Agus Purwanto from the Noun Project
+http://learngis.uk/creating-3d-choropleth-or-prism-map-in-qgis-2-18/
+https://swizec.com/blog/livecoding-24-choropleth-react-js/swizec/7078
+http://blog.keyrus.co.uk/how_to_create_a_flight_or_network_map_using_alteryx_and_tableau.html
+https://www.r-bloggers.com/simplest-possible-heatmap-with-ggplot2/
+https://www.gigawiz.com/3d-column.html
+https://www.maptive.com/feature/heat-mapping-tool/
+bar chart by Barracuda from the Noun Project
