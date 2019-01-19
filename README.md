@@ -18,4 +18,4 @@ More info can be found in the folder of the assignment.
 Video: https://github.com/sandyverbruggen123/Data-Visualisation/blob/master/Assignment%205/FinalResultSonification.mp4
 
 ## Infographic Data Visualisations
-
+![alt text](https://github.com/sandyverbruggen123/Data-Visualisation/blob/master/Infographic/Infographic.png)
