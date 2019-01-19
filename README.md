@@ -1,6 +1,7 @@
 # Data-Visualisation
 
 More info about every assignment can be found in the folder of the assignment.
+<br>
 Link to the portfolio video: https://youtu.be/iRD4UGp9WXU
 
 ## Meteorite Landings
