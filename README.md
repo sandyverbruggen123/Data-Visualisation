@@ -15,3 +15,7 @@ More info can be found in the folder of the assignment.
 ![alt text](https://github.com/sandyverbruggen123/Data-Visualisation/blob/master/Assignment%204/FinalResult.png)
 
 ## Weather Sonification
+Video: https://github.com/sandyverbruggen123/Data-Visualisation/blob/master/Assignment%205/FinalResultSonification.mp4
+
+## Infographic Data Visualisations
+
