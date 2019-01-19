@@ -9,7 +9,9 @@ More info can be found in the folder of the assignment.
 ![alt text](https://github.com/sandyverbruggen123/Data-Visualisation/blob/master/Assignment%202/ResultBirths.jpg)
 
 ## Fastest Karts Mario Kart 8 Deluxe
+![alt text](https://github.com/sandyverbruggen123/Data-Visualisation/blob/master/Assignment%203/FinalResult.png)
 
 ## Travel Globe
+![alt text](https://github.com/sandyverbruggen123/Data-Visualisation/blob/master/Assignment%204/FinalResult.png)
 
 ## Weather Sonification
