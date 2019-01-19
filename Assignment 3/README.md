@@ -6,7 +6,7 @@ The data set I found had more than 100.000 rows. So I have chosen only the faste
 ![alt text](https://github.com/sandyverbruggen123/Data-Visualisation/blob/master/Assignment%203/sql.png)
 
 <br>
-I wanted to show something like a race track. I searched for a data visualisation that looks most like this. And I found an Sankey diagram. First I wrote a script to turn the csv data in the right format. Then I drew all nodes and links and this result was a nice symmetric visualisation. But all the tracks were in the same color so you couldn't see the right combinations. So I give for every diferent category of the kart every track another color. This was the result made in html and javascript.
+I wanted to show something like a race track. I searched for a data visualisation that looks most like this. And I found an Sankey diagram. First I wrote a script to turn the csv data in the right format. Then I drew all nodes and links and this result was a nice symmetric visualisation. But all the tracks were in the same color so you couldn't see the right combinations. So I gave for each diferent category of the kart the tracks another color. This was the result made in html and javascript.
 <br>
 
 ![alt text](https://github.com/sandyverbruggen123/Data-Visualisation/blob/master/Assignment%203/javascriptResult.png)
@@ -14,6 +14,7 @@ I wanted to show something like a race track. I searched for a data visualisatio
 <br>
 
 After this I edited the visualisation in Illustrator. I rotated it because otherwise the text in the nodes wasn't readable. 
+<br>
 <br>
 Data from: https://data.world/databeats/mario-kart-8-deluxe-kart-stats/workspace/file?filename=KartKross.csv
 
